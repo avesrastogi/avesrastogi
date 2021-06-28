@@ -1,10 +1,10 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
+I am a fullstack software engineer from India
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+- 🌱 Learning something new in tech everyday
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/avni-rastogi-951029131/)
+<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/avni-rastogi-951029131/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/avni__rastogi)
 <br>
 <br>
