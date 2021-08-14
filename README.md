@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack software engineer from India
+I am a fullstack software developer from India
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning something new in tech everyday
 <br>
