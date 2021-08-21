@@ -2,6 +2,7 @@
 I am a fullstack software developer from India
 - 🔭 Working on multiple frontend and backend projects using React and Nodejs
 - 🌱 Learning something new in tech everyday
+- Completed #100daysOfCode
 <br>
 
 ## Connect with me
